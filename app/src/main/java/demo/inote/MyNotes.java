@@ -36,7 +36,7 @@ public class MyNotes extends AppCompatActivity {
     ListView listViewNotes;
     List<Notes> notesList;
     DatabaseReference databaseNotes;
-    TextView category, notes, rating;
+    TextView category;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
