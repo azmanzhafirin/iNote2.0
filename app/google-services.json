@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856272035365",
+    "firebase_url": "https://inote-b03ed.firebaseio.com",
+    "project_id": "inote-b03ed",
+    "storage_bucket": "inote-b03ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856272035365:android:225eb16e074f3508",
+        "android_client_info": {
+          "package_name": "demo.inote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856272035365-1vievm5qh8li41ccvjrcnvh9tcef0cc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.inote",
+            "certificate_hash": "67d35950b701463f8682dd490cfe96d14dbadc95"
+          }
+        },
+        {
+          "client_id": "856272035365-rkc361dtkfdbtsoj1f0tnccgkst5p6hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCRnFdXeDMPBa6v90i2I8_J9Pb3RcrQoE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856272035365-rkc361dtkfdbtsoj1f0tnccgkst5p6hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
